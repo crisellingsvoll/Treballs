@@ -9,3 +9,4 @@ Llistat de treballs de Sistemes de Representació Avançada
 * [grid](https://crisellingsvoll.github.io/grid/)
 * [start_up]
 * [mondrian]
+* [minimalissimo]
