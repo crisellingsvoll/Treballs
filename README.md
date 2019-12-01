@@ -7,6 +7,6 @@ Llistat de treballs de Sistemes de Representació Avançada
 * [artist](https://crisellingsvoll.github.io/artist/)
 * [targetes](https://crisellingsvoll.github.io/targetes/)
 * [grid](https://crisellingsvoll.github.io/grid/)
-* [landingpage]
+* [landingpage](https://crisellingsvoll.github.io/landingpage/)
 * [mondrian](https://crisellingsvoll.github.io/mondrian/)
 * [minimalissimo]
