@@ -9,6 +9,6 @@ Llistat de treballs de Sistemes de Representació Avançada
 * [grid](https://crisellingsvoll.github.io/grid/)
 * [landingpage](https://crisellingsvoll.github.io/landingpage/)
 * [mondrian](https://crisellingsvoll.github.io/mondrian/)
-* [minimalissimo]
+* [minimalissimo](https://crisellingsvoll.github.io/minimalissimo/)
 * [img_trocejada](https://crisellingsvoll.github.io/img_trocejada/)
 * [madebyfieldwork]
